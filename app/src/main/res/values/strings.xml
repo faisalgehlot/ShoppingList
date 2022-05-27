@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="todo">TODO</string>
+    <string name="add_a_new_shopping_item">Add a new Shopping Item</string>
+</resources>
